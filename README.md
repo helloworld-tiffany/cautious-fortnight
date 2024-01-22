@@ -22,5 +22,5 @@ Code editor: Atom
 D3.js interaction techniques used: bar chart, tooltips, mouse hover functions 
 
 Site available: https://damp-island-71808.herokuapp.com/  
-observableHQ: https://observablehq.com/@jamie/tested-vs-positive 
+Site currently not available 
 
